@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: 81 45 168;
+  --color-primary-dark: 49 27 146;
+  --color-blue: 0 123 255;
+  --color-blue-dark: 0 86 179;
+}
+
+.text-primary {
+  color: rgb(var(--color-primary));
+}
+
+.bg-primary {
+  background-color: rgb(var(--color-primary));
+}
+
+.bg-primary-dark {
+  background-color: rgb(var(--color-primary-dark));
+}
+
+.bg-blue {
+  background-color: rgb(var(--color-blue));
+}
+
+.bg-blue-dark {
+  background-color: rgb(var(--color-blue-dark));
+}

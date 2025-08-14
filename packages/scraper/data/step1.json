@@ -1,0 +1,15 @@
+{
+  "title": "Udyam Registration - Step 1",
+  "fields": [
+    {
+      "key": "checkbox",
+      "label": "",
+      "type": "checkbox",
+      "value": "on",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    }
+  ]
+}

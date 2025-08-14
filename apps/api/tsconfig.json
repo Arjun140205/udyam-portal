@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    // Build Output
+    "outDir": "./dist",
+    "rootDir": "./src",
+    
+    // Module Settings
+    "target": "ES2020",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    
+    // Type Checking
+    "strict": true,
+    "skipLibCheck": true,
+    "noUncheckedIndexedAccess": true,
+    
+    // Type Declarations
+    "declaration": true,
+    "sourceMap": true,
+    
+    // Environment
+    "lib": ["ES2020"],
+    "types": ["node"]
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}

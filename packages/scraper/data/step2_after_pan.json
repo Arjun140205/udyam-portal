@@ -1,0 +1,415 @@
+{
+  "title": "Udyam Registration - Step 2",
+  "fields": [
+    {
+      "key": "ctl00$ContentPlaceHolder1$rbpanyesno",
+      "label": "Yes",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rbpanyesno",
+      "label": "No",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rbdDOB",
+      "label": "DOB",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rbdDOB",
+      "label": "DOI",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblPreviousYearITR",
+      "label": "Yes",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblPreviousYearITR",
+      "label": "No",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblWhetherGstn",
+      "label": "Yes",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblWhetherGstn",
+      "label": "No",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblWhetherGstn",
+      "label": "Exempted / छूट प्राप्त",
+      "type": "radio",
+      "value": "3",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rdbcategory",
+      "label": "General / सामान्य",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rdbcategory",
+      "label": "SC / अनुसूचित जाति",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rdbcategory",
+      "label": "ST / अनुसूचित जनजाति",
+      "type": "radio",
+      "value": "3",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rdbcategory",
+      "label": "OBC / अन्य पिछड़ा वर्ग",
+      "type": "radio",
+      "value": "4",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rbtGender",
+      "label": "Male / पुरूष",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rbtGender",
+      "label": "Female / स्त्री",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rbtGender",
+      "label": "Others / अन्य",
+      "type": "radio",
+      "value": "3",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rbtPh",
+      "label": "Yes / हाँ",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rbtPh",
+      "label": "No / नहीं",
+      "type": "radio",
+      "value": "0",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rdbPreviousEM",
+      "label": "N/A",
+      "type": "radio",
+      "value": "0",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rdbPreviousEM",
+      "label": "EM-II",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rdbPreviousEM",
+      "label": "Previous UAM",
+      "type": "radio",
+      "value": "4",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblcommenced",
+      "label": "Yes",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblcommenced",
+      "label": "No",
+      "type": "radio",
+      "value": "0",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rdbCatgg",
+      "label": "Manufacturing / विनिर्माण",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rdbCatgg",
+      "label": "Services / सेवा",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rdbCatggMultiple",
+      "label": "Manufacturing / विनिर्माण",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rdbCatggMultiple",
+      "label": "Services / सेवा",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rdbCatggMultiple",
+      "label": "Trading / व्यापारिक",
+      "type": "radio",
+      "value": "3",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblGeM",
+      "label": "Yes / हाँ",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblGeM",
+      "label": "No / नहीं",
+      "type": "radio",
+      "value": "0",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblTReDS",
+      "label": "Yes / हाँ",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblTReDS",
+      "label": "No / नहीं",
+      "type": "radio",
+      "value": "0",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblNCS",
+      "label": "Yes / हाँ",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblNCS",
+      "label": "No / नहीं",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblnsic",
+      "label": "Yes / हाँ",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblnsic",
+      "label": "No / नहीं",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblnixi",
+      "label": "Yes / हाँ",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblnixi",
+      "label": "No / नहीं",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblsid",
+      "label": "Yes / हाँ",
+      "type": "radio",
+      "value": "1",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "ctl00$ContentPlaceHolder1$rblsid",
+      "label": "No / नहीं",
+      "type": "radio",
+      "value": "2",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    },
+    {
+      "key": "checkbox",
+      "label": "",
+      "type": "checkbox",
+      "value": "on",
+      "required": false,
+      "pattern": null,
+      "placeholder": null,
+      "maxLength": null
+    }
+  ]
+}

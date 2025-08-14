@@ -1,0 +1,8 @@
+{
+  "step": "Step 1",
+  "description": "This is the schema for Step 1",
+  "fields": [
+    { "name": "field1", "type": "string" },
+    { "name": "field2", "type": "number" }
+  ]
+}

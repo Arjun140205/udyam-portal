@@ -1,0 +1,8 @@
+{
+  "step": "Step 2",
+  "description": "This is the schema for Step 2",
+  "fields": [
+    { "name": "fieldA", "type": "boolean" },
+    { "name": "fieldB", "type": "date" }
+  ]
+}
